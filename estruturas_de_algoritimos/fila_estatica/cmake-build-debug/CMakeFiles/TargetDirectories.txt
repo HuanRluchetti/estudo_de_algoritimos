@@ -1,3 +1,3 @@
-C:/Users/huanl/OneDrive/Documentos/Faculdade/Aula de quarta/filas/cmake-build-debug/CMakeFiles/filas.dir
-C:/Users/huanl/OneDrive/Documentos/Faculdade/Aula de quarta/filas/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/huanl/OneDrive/Documentos/Faculdade/Aula de quarta/filas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/huanl/OneDrive/Documentos/Faculdade/Aula de quarta/repositório/estudo_de_algoritimos/estruturas_de_algoritimos/fila_estatica/cmake-build-debug/CMakeFiles/filas.dir
+C:/Users/huanl/OneDrive/Documentos/Faculdade/Aula de quarta/repositório/estudo_de_algoritimos/estruturas_de_algoritimos/fila_estatica/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/huanl/OneDrive/Documentos/Faculdade/Aula de quarta/repositório/estudo_de_algoritimos/estruturas_de_algoritimos/fila_estatica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
